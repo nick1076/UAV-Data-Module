@@ -1,0 +1,11 @@
+Added Component: Designator=U3(PQFN50P200X200X100-12N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LIS2HH12TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LGA-12 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LIS2HH12TR/STMicroelectronics/view-part/552242/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Class Member: Failed to add class member : Component S2 Altimeter
+Added Member To Class: ClassName=Main Member=Component SW2 B3S-1000P
+Added Member To Class: ClassName=Main Member=Component U3 LIS2HH12TR

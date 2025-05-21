@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C8 NewDesignator=C6
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=SW2 NewDesignator=SW1
+Add component: Footprint Not Found PQFN50P200X200X100-12N
+Add Class Member: Failed to add class member : Component S*1 Altimeter
+Add Class Member: Failed to add class member : Component U3 LIS2HH12TR
