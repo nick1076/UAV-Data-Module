@@ -202,6 +202,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PETAJVWA
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for uavDataModule\Design Rule Check - Main.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1187,8 +1191,32 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=3V3|NetColor=clYellow
-Net2=NetName=GND|NetColor=$0000BE00
-Net3=NetName=VIN|NetColor=$006E6EFF
+Net2=NetName=AREF|NetColor=$000083FD
+Net3=NetName=AVCC|NetColor=$000083FD
+Net4=NetName=GND|NetColor=$0000BE00
+Net5=NetName=MISO|NetColor=$006EA300
+Net6=NetName=MOSI|NetColor=$006EA300
+Net7=NetName=NetMT1_13|NetColor=$006EA300
+Net8=NetName=NetMT1_14|NetColor=$006EA300
+Net9=NetName=NetP4_5|NetColor=$006EA300
+Net10=NetName=NetR4_2|NetColor=$006EA300
+Net11=NetName=NetR5_2|NetColor=$006EA300
+Net12=NetName=NetR6_2|NetColor=$006EA300
+Net13=NetName=NetR7_2|NetColor=$006EA300
+Net14=NetName=NetU2_3|NetColor=$006EA300
+Net15=NetName=NetU2_4|NetColor=$006EA300
+Net16=NetName=NetU4_2|NetColor=$006EA300
+Net17=NetName=NetU4_4|NetColor=$006EA300
+Net18=NetName=RX|NetColor=$006EA300
+Net19=NetName=SCK|NetColor=$006EA300
+Net20=NetName=SCL|NetColor=$006EA300
+Net21=NetName=SD_CLK|NetColor=$006EA300
+Net22=NetName=SD_CMD|NetColor=$006EA300
+Net23=NetName=SD_DAT0|NetColor=$006EA300
+Net24=NetName=SD_DAT1|NetColor=$006EA300
+Net25=NetName=SDA|NetColor=$006EA300
+Net26=NetName=TX|NetColor=$006EA300
+Net27=NetName=VIN|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0

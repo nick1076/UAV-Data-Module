@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=Logic Member=R37
+Removed Member From Class: ClassName=Logic Member=R38
+Removed Member From Class: ClassName=Logic Member=R39
+Removed Member From Class: ClassName=Logic Member=R40
+Removed Member From Class: ClassName=Logic Member=R41
+Removed Member From Class: ClassName=Logic Member=R42
+Added Pin To Net: NetName=PE3 Pin=R15-1
+Added Pin To Net: NetName=PE2 Pin=R21-1
+Added Pin To Net: NetName=PE1 Pin=R26-1
+Added Pin To Net: NetName=PE0 Pin=R29-1
+Added Pin To Net: NetName=NetR12_1 Pin=R35-1
+Added Pin To Net: NetName=PE3 Pin=U5-2
+Added Pin To Net: NetName=PE2 Pin=U5-4
+Added Pin To Net: NetName=PE1 Pin=U5-6
+Added Pin To Net: NetName=PE0 Pin=U5-8
+Added Pin To Net: NetName=NetR12_1 Pin=U5-12
+Add Net: Net with name "C0" already exists
+Add Net: Net with name "C1" already exists
+Add Net: Net with name "C2" already exists
+Add Net: Net with name "C3" already exists
+Add Net: Net with name "C4" already exists
+Add Net: Net with name "C5" already exists
+Added Member To Class: ClassName=Logic Member=Component R20 1kO
+Added Member To Class: ClassName=Logic Member=Component R21 100O
+Added Member To Class: ClassName=Logic Member=Component R22 100O
+Added Member To Class: ClassName=Logic Member=Component R23 10kO
+Added Member To Class: ClassName=Logic Member=Component R24 10kO
+Added Member To Class: ClassName=Logic Member=Component R25 1kO
