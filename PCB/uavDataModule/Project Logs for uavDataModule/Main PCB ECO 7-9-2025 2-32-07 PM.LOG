@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Altimeter Member=C5
+Removed Member From Class: ClassName=Microcontroller Member=C5
+Removed Member From Class: ClassName=Microcontroller Member=R5
+Change Net Name : Old Net Name=BUCK_IN New Net Name=VIN
+Change Net Name : Old Net Name=NetC9_2 New Net Name=FB
+Change Net Name : Old Net Name=NetR11_2 New Net Name=PG
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=Microcontroller Member=Component C1 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component C2 0.1µF
+Added Member To Class: ClassName=Altimeter Member=Component C3 0.1µF
+Added Member To Class: ClassName=Accelerometer Member=Component C4 2.2µF
+Added Member To Class: ClassName=Accelerometer Member=Component C5 0.1µF
+Added Member To Class: ClassName=Accelerometer Member=Component C6 10nF
+Added Member To Class: ClassName=MicroSD Member=Component C7 10µF
+Added Member To Class: ClassName=MicroSD Member=Component C8 0.1µF
+Added Member To Class: ClassName=Microcontroller Member=Component R4 620O
+Added Member To Class: ClassName=MicroSD Member=Component R6 33O
+Added Member To Class: ClassName=MicroSD Member=Component R8 33O
+Added Member To Class: ClassName=MicroSD Member=Component R9 10kO
+Added Member To Class: ClassName=Logic Member=Component U5 SN74HC14DR
+Added Member To Class: ClassName=Logic Member=Component U8 SN74HC00PWR
+Added Member To Class: ClassName=Logic Member=Component U10 SN74HC14DR
+Added Rule: Name=Schematic Supply Nets_4
