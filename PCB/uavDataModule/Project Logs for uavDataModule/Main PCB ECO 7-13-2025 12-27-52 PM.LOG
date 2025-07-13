@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=3V3 Pin=C3-1
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C11
+Change Component Designator: OldDesignator=C11 NewDesignator=C12
+Change Component Designator: OldDesignator=C12 NewDesignator=C13
+Added Component: Designator=C4(CAPC3216X100X50ML20T25)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C1206F104K3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "02/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.78 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "4000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=3V3 Pin=C4-2
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC11_2
+Add Net: Net with name "C0" already exists
+Add Net: Net with name "C1" already exists
+Add Net: Net with name "C2" already exists
+Add Net: Net with name "C3" already exists
+Add Net: Net with name "C4" already exists
+Add Net: Net with name "C5" already exists
+Added Member To Class: ClassName=Altimeter Member=Component C4 0.1µF
+Added Member To Class: ClassName=LevelShifter Member=Component R11 10kO
+Added Member To Class: ClassName=Logic Member=Component R13 1kO
+Added Member To Class: ClassName=Logic Member=Component R15 100O
+Added Member To Class: ClassName=Logic Member=Component R17 10kO
+Added Member To Class: ClassName=Logic Member=Component R19 1kO
+Added Member To Class: ClassName=Logic Member=Component R21 100O
+Added Member To Class: ClassName=Logic Member=Component R23 10kO
+Added Member To Class: ClassName=Logic Member=Component R25 100O
+Added Member To Class: ClassName=Logic Member=Component R27 1kO
+Added Member To Class: ClassName=Logic Member=Component R29 10kO
+Added Member To Class: ClassName=Logic Member=Component R31 100O
+Added Member To Class: ClassName=Logic Member=Component R33 1kO
+Added Member To Class: ClassName=Logic Member=Component R35 10kO
+Added Member To Class: ClassName=Config Member=Component R38 10kO
+Added Member To Class: ClassName=Config Member=Component R40 10kO

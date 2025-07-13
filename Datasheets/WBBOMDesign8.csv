@@ -1,0 +1,7 @@
+﻿Part,Manufacturer,Part Number,Quantity,Price ($),Footprint (mm²),Description
+Cff,MuRata,GRM033R71E331KA01D,1,0.01,2.08,Cap: 330 pF  Total Derated Cap: 330 pF  VDC: 25 V  ESR: 1 mΩ  Package: 0201  
+Cout,TDK,C2012X5R1A336M125AC,1,0.26,6.75,Cap: 33 µF  Total Derated Cap: 14 µF  VDC: 10 V  ESR: 1.69 mΩ  Package: 0805  
+Rfbb,Yageo,RC0603FR-072K2L,1,0.01,4.68,Resistance: 2.2 kΩ  Tolerance: 1.0%  Power: 100 mW  
+Cin,TDK,C1608X5R1V225K080AC,1,0.04,4.68,Cap: 2.2 µF  Total Derated Cap: 940 nF  VDC: 35 V  ESR: 7.67 mΩ  Package: 0603  
+Rfbt,Vishay-Dale,CRCW040210K0FKED,1,0.01,3,Resistance: 10 kΩ  Tolerance: 1.0%  Power: 63 mW  
+U1,Texas Instruments,TPSM84209RKHR,1,1.4,27.5,
