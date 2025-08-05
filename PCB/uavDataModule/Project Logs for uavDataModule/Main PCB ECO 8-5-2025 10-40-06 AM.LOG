@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=PD4 Pin=R10-1
+Removed Pin From Net: NetName=3V3 Pin=R10-2
+Removed Pin From Net: NetName=PD3 Pin=R11-1
+Removed Pin From Net: NetName=3V3 Pin=R11-2
+Removed Pin From Net: NetName=PD2 Pin=R12-1
+Removed Pin From Net: NetName=3V3 Pin=R12-2
+Removed Pin From Net: NetName=PB7 Pin=R13-1
+Removed Pin From Net: NetName=3V3 Pin=R13-2
+Removed Pin From Net: NetName=PB6 Pin=R14-1
+Removed Pin From Net: NetName=3V3 Pin=R14-2
+Removed Pin From Net: NetName=NetR9_1 Pin=R15-1
+Removed Pin From Net: NetName=3V3 Pin=R15-2
+Removed Pin From Net: NetName=3V3 Pin=SW3-L1
+Removed Pin From Net: NetName=3V3 Pin=SW4-L1
+Removed Member From Class: ClassName=Config Member=R10
+Removed Member From Class: ClassName=Config Member=R11
+Removed Member From Class: ClassName=Config Member=R12
+Removed Member From Class: ClassName=Config Member=R13
+Removed Member From Class: ClassName=Config Member=R14
+Removed Member From Class: ClassName=Config Member=R15
+Add Component: Footprint Not Found XDCR_ICM-42670-P
+Add Component: Footprint Not Found PSON65P250X250X100-8N
+Add Component: Footprint Not Found VREG_TLV1117LV33DCYR
+Add Pin To Net: Unknown Pin: Pin MT1-1
+Add Pin To Net: Unknown Pin: Pin MT1-4
+Add Pin To Net: Unknown Pin: Pin MT1-5
+Add Pin To Net: Unknown Pin: Pin MT1-6
+Add Pin To Net: Unknown Pin: Pin MT1-8
+Add Pin To Net: Unknown Pin: Pin MT1-12
+Add Pin To Net: Unknown Pin: Pin MT1-13
+Add Pin To Net: Unknown Pin: Pin MT1-14
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Added Member To Class: ClassName=Indicators Member=Component D5 150120GS75000
+Add Class Member: Failed to add class member : Component MT1 ICM-42670-P
+Added Member To Class: ClassName=Indicators Member=Component R19 1kO
+Add Class Member: Failed to add class member : Component U2 BME280
+Add Class Member: Failed to add class member : Component U3 TLV1117LV33DCYR

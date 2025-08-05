@@ -1,0 +1,26 @@
+Add Component: Footprint Not Found XDCR_ICM-42670-P
+Add Component: Footprint Not Found PSON65P250X250X100-8N
+Add Pin To Net: Unknown Pin: Pin MT1-1
+Add Pin To Net: Unknown Pin: Pin MT1-4
+Add Pin To Net: Unknown Pin: Pin MT1-5
+Add Pin To Net: Unknown Pin: Pin MT1-6
+Add Pin To Net: Unknown Pin: Pin MT1-8
+Add Pin To Net: Unknown Pin: Pin MT1-12
+Add Pin To Net: Unknown Pin: Pin MT1-13
+Add Pin To Net: Unknown Pin: Pin MT1-14
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Class Member: Failed to add class member : Component MT1 ICM-42670-P
+Added Member To Class: ClassName=Indicators Member=Component R10 1kO
+Added Member To Class: ClassName=Indicators Member=Component R11 1kO
+Added Member To Class: ClassName=Indicators Member=Component R12 1kO
+Added Member To Class: ClassName=Indicators Member=Component R13 1kO
+Added Member To Class: ClassName=Indicators Member=Component R14 1kO
+Added Member To Class: ClassName=Indicators Member=Component R15 1kO
+Add Class Member: Failed to add class member : Component U2 BME280

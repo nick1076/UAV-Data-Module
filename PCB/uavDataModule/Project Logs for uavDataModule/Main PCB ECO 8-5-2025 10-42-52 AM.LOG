@@ -1,0 +1,57 @@
+Change Component Designator: OldDesignator=R16 NewDesignator=R10
+Change Component Designator: OldDesignator=R17 NewDesignator=R11
+Change Component Designator: OldDesignator=R18 NewDesignator=R12
+Change Component Designator: OldDesignator=R19 NewDesignator=R13
+Change Component Designator: OldDesignator=R20 NewDesignator=R14
+Change Component Designator: OldDesignator=R21 NewDesignator=R15
+Add Component: Footprint Not Found XDCR_ICM-42670-P
+Add Component: Footprint Not Found PSON65P250X250X100-8N
+Added Component: Designator=U3(DCY0004A_N)
+Add component (AddParameter): Name = "Accuracy(%)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TLV1117LV33&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/litv/pdf/mpds094a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "SBVS160A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Eco-Plan"; Value = "Green (RoHS & no Sb/Br)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fixed Output Options(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iout(Max)(A)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Iq(Typ)(mA)"; Value = "0.05"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "4-Pin Plastic Small Outline, Body 3.5 x 6.5 mm, Pitch 2.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DCY0004A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "4202506/B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TLV1117LV33DCYR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SubFamily"; Value = "Single Channel LDO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vdo(Typ)(mV)"; Value = "1200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Max)(V)"; Value = "5.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vin(Min)(V)"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout Adj(Max)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vout Adj(Min)(V)"; Value = "3.3"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin MT1-1
+Add Pin To Net: Unknown Pin: Pin MT1-4
+Add Pin To Net: Unknown Pin: Pin MT1-5
+Add Pin To Net: Unknown Pin: Pin MT1-6
+Add Pin To Net: Unknown Pin: Pin MT1-8
+Add Pin To Net: Unknown Pin: Pin MT1-12
+Add Pin To Net: Unknown Pin: Pin MT1-13
+Add Pin To Net: Unknown Pin: Pin MT1-14
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=5V0 Pin=U3-3
+Added Pin To Net: NetName=3V3 Pin=U3-4
+Add Class Member: Failed to add class member : Component MT1 ICM-42670-P
+Add Class Member: Failed to add class member : Component U2 BME280
+Added Member To Class: ClassName=Power Member=Component U3 TLV1117LV33DCYR
