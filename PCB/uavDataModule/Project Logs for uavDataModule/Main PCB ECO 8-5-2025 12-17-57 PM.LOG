@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SCK Pin=U5-4
+Removed Pin From Net: NetName=RESET Pin=U5-5
+Removed Pin From Net: NetName=GND Pin=U5-14
+Removed Pin From Net: NetName=RESET_5V Pin=U5-15
+Removed Pin From Net: NetName=SCK_5V Pin=U5-16
+Added Pin To Net: NetName=SCK Pin=U5-5
+Added Pin To Net: NetName=RESET Pin=U5-6
+Added Pin To Net: NetName=RESET_5V Pin=U5-14
+Added Pin To Net: NetName=SCK_5V Pin=U5-15
+Added Pin To Net: NetName=GND Pin=U5-16

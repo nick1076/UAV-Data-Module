@@ -255,74 +255,82 @@ DocumentPath=Project Outputs for uavDataModule\Main.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for uavDataModule\Main.GM5
+DocumentPath=Project Outputs for uavDataModule\Main.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for uavDataModule\Main.GM11
+DocumentPath=Project Outputs for uavDataModule\Main.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for uavDataModule\Main.GM13
+DocumentPath=Project Outputs for uavDataModule\Main.GM11
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for uavDataModule\Main.GM15
+DocumentPath=Project Outputs for uavDataModule\Main.GM12
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for uavDataModule\Main.GM16
+DocumentPath=Project Outputs for uavDataModule\Main.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for uavDataModule\Main.GM20
+DocumentPath=Project Outputs for uavDataModule\Main.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for uavDataModule\Main.GM21
+DocumentPath=Project Outputs for uavDataModule\Main.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for uavDataModule\Main.GM23
+DocumentPath=Project Outputs for uavDataModule\Main.GM20
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for uavDataModule\Main.GM24
+DocumentPath=Project Outputs for uavDataModule\Main.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for uavDataModule\Main.GPB
+DocumentPath=Project Outputs for uavDataModule\Main.GM23
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for uavDataModule\Main.GPT
+DocumentPath=Project Outputs for uavDataModule\Main.GM24
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for uavDataModule\Main.GTL
+DocumentPath=Project Outputs for uavDataModule\Main.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for uavDataModule\Main.GTO
+DocumentPath=Project Outputs for uavDataModule\Main.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for uavDataModule\Main.GTP
+DocumentPath=Project Outputs for uavDataModule\Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for uavDataModule\Main.GTS
+DocumentPath=Project Outputs for uavDataModule\Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for uavDataModule\Main.LDP
+DocumentPath=Project Outputs for uavDataModule\Main.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for uavDataModule\Main.REP
+DocumentPath=Project Outputs for uavDataModule\Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument31]
+DocumentPath=Project Outputs for uavDataModule\Main.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for uavDataModule\Main.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
 DocumentPath=Project Outputs for uavDataModule\Main.TXT
 DItemRevisionGUID=
 
@@ -622,7 +630,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\17045\Desktop\Repositories\UAV-Sensor-Module\PCB\uavDataModule\Main.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=C:\Users\Nick Niles\Desktop\Repos\UAV-Sensor-Module\PCB\uavDataModule\Main.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -647,7 +655,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=ITKNKDEU|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908291~1,16908293~1,16908299~1,16908301~1,16908303~1,16908304~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\17045\Desktop\Repositories\UAV-Sensor-Module\PCB\uavDataModule\Main.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=ITKNKDEU|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Different|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1,16908291~1,16908293~1,16908299~1,16908301~1,16908303~1,16908304~1,16908308~1,16908309~1,16908311~1,16908312~1,16973837~1,16973848~1,16973849~1,16908292~1,16908300~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=C:\Users\Nick Niles\Desktop\Repos\UAV-Sensor-Module\PCB\uavDataModule\Main.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1314,26 +1322,28 @@ Net8=NetName=MOSI_5V|NetColor=$006EA300
 Net9=NetName=NetMT1_13|NetColor=$006EA300
 Net10=NetName=NetMT1_14|NetColor=$006EA300
 Net11=NetName=NetP4_5|NetColor=$006EA300
-Net12=NetName=NetR4_2|NetColor=$006EA300
-Net13=NetName=NetR5_2|NetColor=$006EA300
-Net14=NetName=NetR6_2|NetColor=$006EA300
-Net15=NetName=NetR7_2|NetColor=$006EA300
-Net16=NetName=NetU2_3|NetColor=$006EA300
-Net17=NetName=NetU2_4|NetColor=$006EA300
-Net18=NetName=NetU4_2|NetColor=$006EA300
-Net19=NetName=NetU4_4|NetColor=$006EA300
-Net20=NetName=RESET_5V|NetColor=$006EA300
-Net21=NetName=RX|NetColor=$006EA300
-Net22=NetName=SCK|NetColor=$006EA300
-Net23=NetName=SCK_5V|NetColor=$006EA300
-Net24=NetName=SCL|NetColor=$006EA300
-Net25=NetName=SD_CLK|NetColor=$006EA300
-Net26=NetName=SD_CMD|NetColor=$006EA300
-Net27=NetName=SD_DAT0|NetColor=$006EA300
-Net28=NetName=SD_DAT1|NetColor=$006EA300
-Net29=NetName=SDA|NetColor=$006EA300
-Net30=NetName=TX|NetColor=$006EA300
-Net31=NetName=VIN|NetColor=$006E6EFF
+Net12=NetName=NetR14_1|NetColor=$006EA300
+Net13=NetName=NetR4_2|NetColor=$006EA300
+Net14=NetName=NetR5_2|NetColor=$006EA300
+Net15=NetName=NetR6_2|NetColor=$006EA300
+Net16=NetName=NetR7_2|NetColor=$006EA300
+Net17=NetName=NetU2_3|NetColor=$006EA300
+Net18=NetName=NetU2_4|NetColor=$006EA300
+Net19=NetName=NetU4_2|NetColor=$006EA300
+Net20=NetName=NetU4_4|NetColor=$006EA300
+Net21=NetName=PE3|NetColor=$006EA300
+Net22=NetName=RESET_5V|NetColor=$006EA300
+Net23=NetName=RX|NetColor=$006EA300
+Net24=NetName=SCK|NetColor=$006EA300
+Net25=NetName=SCK_5V|NetColor=$006EA300
+Net26=NetName=SCL|NetColor=$006EA300
+Net27=NetName=SD_CLK|NetColor=$006EA300
+Net28=NetName=SD_CMD|NetColor=$006EA300
+Net29=NetName=SD_DAT0|NetColor=$006EA300
+Net30=NetName=SD_DAT1|NetColor=$006EA300
+Net31=NetName=SDA|NetColor=$006EA300
+Net32=NetName=TX|NetColor=$006EA300
+Net33=NetName=VIN|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
